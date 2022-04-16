@@ -77,3 +77,16 @@ C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\obj
 C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\obj\Debug\MvcBlogProject.csproj.CopyComplete
 C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\obj\Debug\MvcBlogProject.dll
 C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\obj\Debug\MvcBlogProject.pdb
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\BusinessLayer.dll
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\DataAccessLayer.dll
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityLayer.dll
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityFramework.dll
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\BusinessLayer.pdb
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\BusinessLayer.dll.config
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\DataAccessLayer.pdb
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\DataAccessLayer.dll.config
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityLayer.pdb
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityLayer.dll.config
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityFramework.xml
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityFramework.SqlServer.dll
+C:\Users\emred\Documents\GitHub\MvcBlogProject\MvcBlogProject\MvcBlogProject\bin\EntityFramework.SqlServer.xml
